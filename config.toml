@@ -10,7 +10,7 @@ paginate = 5000 #frontpage pagination
       unsafe = true
 
 [params]
-  header_image = "images/martin-sattler-8peGuud5cEw-unsplash.jpg"
+  header_image = "images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
   title = "Software Engineering"
   slogan = "$ echo -e \"things I'm working on or pondering\"."
   SEOTitle = "Tiago Krebs Blog"
@@ -22,16 +22,16 @@ paginate = 5000 #frontpage pagination
   about_me = true
 
   featured_tags = true 
-  featured_condition_size = 2 # How many posts have to have a given tag to be featured (greater-than)
+  featured_condition_size = 0 # How many posts have to have a given tag to be featured (greater-than)
 
   image_404 = "images/sarah-kilian-52jRtc2S_VE-unsplash.jpg"
   title_404 = "Oops..."
 
   omit_categories = false
 
-  [[params.addtional_menus]]
-  title =  "ABOUT"
-  href =  "/top/about/"
+#  [[params.addtional_menus]]
+#  title =  "ABOUT"
+#  href =  "/top/about/"
 
   [params.social]
   rss            = true

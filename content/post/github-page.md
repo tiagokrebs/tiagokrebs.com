@@ -333,6 +333,7 @@ Nesse momento o Github vai validar se o seu domínio está configurado corretame
 ```
 cd public
 git fetch
+git pull
 ```
 
 E Voilà, acesse seu domínio e você será redirecionado ao seu Github Pages pessoal.  

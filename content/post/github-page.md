@@ -301,7 +301,7 @@ Dê uma olhada nos repositórios deste site.
 [O repositório de desenvolvimento](https://github.com/tiagokrebs/tiagokrebs.github.io.dev).  
 [O repositório do tema Clean White](https://github.com/zhaohuabing/hugo-theme-cleanwhite).  
 [O repositório com a Github Page publicada](https://github.com/tiagokrebs/tiagokrebs.github.io).  
-Este site [tiagokrebs.github.io](tiagokrebs.github.io).
+Este site [tiagokrebs.github.io](https://tiagokrebs.github.io).
 
 ## Utilizando seu domínio
 Se você acessar o meu Github Pages pessoal em [tiagokrebs.github.io](tiagokrebs.github.io) vai notar o redirecionamento para https://tiagokrebs.com. A partir desse ponto o artigo traz a solução com custo mínimo para você usar seu próprio domínio na sua Github Page também.

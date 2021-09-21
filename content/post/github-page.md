@@ -18,7 +18,7 @@ Resista aos seus instintos de Dev, não inicie um "projeto simples" utilizando s
 ## Github Pages
 O Github Pages é a combinação entre um repositório e um site estático. Para que o conteúdo do seu site seja publicado basta fazer um commit no branch `main` do repositório. Se quiser um overview rápido confira o [Github Pages Get Started](https://pages.github.com/). Aqui vamos utilizar não um, mas dois repositórios. O primeiro destinado ao desenvolvimento e outro para a página gerada com o Hugo.
 
-Criar repositórios no Github é fácil, mas, para que seu repositório funcione com o Github Pages é necessário ter atenção ao nome escolhido. O repositório precisa ser nomeado da seguinte forma: `<github-user>.github.io`. Por exemplo, o repositório desta página é `tiagokrebs.github.io`. O nome do seu repositório também será a URL da sua página quando publicada.
+Criar repositórios no Github é fácil, mas, para que seu repositório funcione com o Github Pages, é necessário ter atenção ao nome escolhido. O repositório precisa ser nomeado da seguinte forma: `<github-user>.github.io`. Por exemplo, o repositório desta página é `tiagokrebs.github.io`. O nome do seu repositório também será a URL da sua página quando publicada.
 
 
 Inicie criando dois repositórios:
@@ -294,7 +294,7 @@ Quando estiver pronto para publicar seu site basta executar:
 ./deploy.sh
 ```
 
-Feio isso acesse seu site em `<github-user>.github.io`.
+Feito isso acesse seu site em `<github-user>.github.io`.
 
 ### Produto final
 Dê uma olhada nos repositórios deste site.  

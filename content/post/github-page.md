@@ -1,6 +1,6 @@
 ---
 title: "Como Criar um Blog Pessoal com Github Pages e Hugo"
-subtitle: "Escreva posts utilizando Markdown, utilize controle de versão e não pague nada pelo hosting"
+subtitle: "Escreva posts com Markdown, utilize controle de versão e não pague nada pelo hosting"
 description: ""
 date: 2021-09-21
 draft: false
@@ -13,10 +13,10 @@ categories: ["Tech"]
 
 Seu Tech Blog também está num post-it perdido pela sua parede já faz um tempo?  
 
-Resista aos seus instintos de Dev, não inicie um "projeto simples" utilizando sua linguagem e framework favoritos, com um sistema de comentários, test coverage, CI/CD e aquele Cloud Provider no qual você abriu conta mas nunca utilizou de verdade ($$$). *Hear me out*, crie seu site pessoal sem ficar preso a um serviço de hosting. Esse artigo descreve como utilizar Github Pages e Hugo para criar, manter e fazer o hosting de maneira fácil e melhor de tudo, **Free**.
+Resista aos seus instintos de Dev, não inicie um "projeto simples" utilizando sua linguagem e framework favoritos, com um sistema de comentários, test coverage, CI/CD e aquele Cloud Provider no qual você abriu conta mas nunca utilizou de verdade ($$$). *Hear me out*, crie seu site pessoal sem ficar preso a um serviço de hosting. Esse artigo descreve como utilizar Github Pages e Hugo para criar, manter e fazer o hosting de maneira fácil e o melhor de tudo, **Free**.
 
 ## Github Pages
-O Github Pages é a combinação entre um repositório e um site estático. Para que o conteúdo do seu site seja publicado basta fazer um commit no branch `main` do repositório. Se quiser um overview rápido confira o [Github Pages Get Started](https://pages.github.com/). Aqui vamos utilizar não um, mas dois repositórios. O primeiro destinado ao desenvolvimento e outro para a página gerada com o Hugo.
+O Github Pages é a combinação entre um repositório e um site estático. Para que o conteúdo do seu site seja publicado basta fazer um commit no branch `main` do repositório. Se quiser um overview rápido confira o [Github Pages Get Started](https://pages.github.com/). Aqui vamos dois repositórios, o primeiro destinado ao desenvolvimento e outro para a página gerada com o Hugo.
 
 Criar repositórios no Github é fácil, mas, para que seu repositório funcione com o Github Pages, é necessário ter atenção ao nome escolhido. O repositório precisa ser nomeado da seguinte forma: `<github-user>.github.io`. Por exemplo, o repositório desta página é `tiagokrebs.github.io`. O nome do seu repositório também será a URL da sua página quando publicada.
 
@@ -301,10 +301,10 @@ Dê uma olhada nos repositórios deste site.
 [O repositório de desenvolvimento](https://github.com/tiagokrebs/tiagokrebs.github.io.dev).  
 [O repositório do tema Clean White](https://github.com/zhaohuabing/hugo-theme-cleanwhite).  
 [O repositório com a Github Page publicada](https://github.com/tiagokrebs/tiagokrebs.github.io).  
-Este site [https://tiagokrebs.github.io](https://tiagokrebs.github.io).
+Este site [tiagokrebs.github.io](https://tiagokrebs.github.io).
 
 ## Utilizando seu domínio
-Se você acessar o meu Github Pages pessoal em [tiagokrebs.github.io](tiagokrebs.github.io) vai notar o redirecionamento para https://tiagokrebs.com. A partir desse ponto o artigo traz a solução com custo mínimo para você usar seu próprio domínio na sua Github Page também.
+Se você acessar o meu Github Pages pessoal em [tiagokrebs.github.io](https://tiagokrebs.github.io) vai notar o redirecionamento para https://tiagokrebs.com. A partir desse ponto o artigo traz a solução com custo mínimo para você usar seu próprio domínio na sua Github Page também.
 
 ### Comprando um domínio
 Existem diversas plataformas onde você pode comprar o seu domínio. Registro.br, AWS, GoDaddy, Locaweb, Hostgator são algumas delas. Pela compra facilitada e a possibilidade de configuração de entradas DNS sem custo, nesse artigo vamos utilizar a [GoDaddy](https://www.godaddy.com). Acesse a plataforma, escolha seu domínio e faça a compra, o processo é simples e intuitivo. Eventualmente a GoDaddy tem promoções para registro acima de 1 ano e cupons de desconto disponíveis (Google it).
@@ -314,7 +314,7 @@ Depois de alguns minutos seu domínio estará pronto para ser utilizado. Acesse 
 
 Para que seu site responda através de um domínio apex além do subdomínio www vamos precisar criar quatro entradas do tipo A e duas entradas do tipo CNAME no DNS da GoDaddy. Se precisar de ajuda confira as documentações oficiais em [Adicionar um Registro A](https://br.godaddy.com/help/adicionar-um-registro-a-19238) e [Adicionar um Registro CNAME](https://br.godaddy.com/help/adicionar-um-registro-cname-19236). Os registros tipo A devem apontar para os IPs do Github, verifique os IPs atuais em [Configuring a apex domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain).
 
-Crie as entradas conforme o exemplo do meu domínio pessoal abaixo.
+Crie os registros A e CNAME conforme o exemplo do meu domínio pessoal abaixo. Essas configurações devem funcionar para qualquer outro serviço de DNS e não apenas para a GoDaddy.
 ![DNS tiagokrebs.com](/images/post/github-page/dns-tiagokrebs-com.png)
 
 Teste se as suas configurações funcionam utilizando o comando `dig`. Se tudo estiver correto você verá uma resposta semelhante a abaixo para o seu domínio.
@@ -337,7 +337,6 @@ git pull
 ```
 
 E Voilà, acesse seu domínio e você será redirecionado ao seu Github Pages pessoal.  
-Sinta-se à vontade para me contatar se algo não funcionou para você, meus contatos estão aqui no rodapé :).
 
 ## Referências
 https://pages.github.com/  
@@ -348,3 +347,7 @@ https://gohugo.io/getting-started/quick-start/
 https://hub.docker.com/r/klakegg/hugo/  
 https://gohugo.io/getting-started/installing/  
 https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
+
+-------------------
+
+Ficou na dúvida ou algum passo não funcinou para você? Me dê um ping, os contatos estão aqui no rodapé :)

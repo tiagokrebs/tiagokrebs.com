@@ -350,4 +350,4 @@ https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pag
 
 -------------------
 
-Ficou na dúvida ou algum passo não funcinou para você? Me dê um ping, os contatos estão aqui no rodapé :)
+Ficou na dúvida ou algum passo não funcionou para você? Me dê um ping, os contatos estão aqui no rodapé :)

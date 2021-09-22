@@ -1,7 +1,7 @@
 ---
 title: "Como Criar um Blog Pessoal com Github Pages e Hugo"
 subtitle: "Escreva posts com Markdown, utilize controle de versão e não pague nada pelo hosting"
-description: ""
+description: "Passo a passo para criar uma página sem custo de hosting utilizando Hugo e Github Pages."
 date: 2021-09-21
 draft: false
 showtoc: true

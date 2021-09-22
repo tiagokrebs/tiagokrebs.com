@@ -317,7 +317,7 @@ Para que seu site responda através de um domínio apex além do subdomínio www
 Crie os registros A e CNAME conforme o exemplo do meu domínio pessoal abaixo. Essas configurações devem funcionar para qualquer outro serviço de DNS e não apenas para a GoDaddy.
 ![DNS tiagokrebs.com](/images/post/github-page/dns-tiagokrebs-com.png)
 
-Teste se as suas configurações funcionam utilizando o comando `dig`. Se tudo estiver correto você verá uma resposta semelhante a abaixo para o seu domínio.
+Teste se as suas configurações funcionam utilizando o seu domínio e o comando `dig`. Se tudo estiver correto você verá uma resposta semelhante essa:
 ```
 $ dig tiagokrebs.com +noall +answer -t A
 tiagokrebs.com.		303	IN	A	185.199.110.153

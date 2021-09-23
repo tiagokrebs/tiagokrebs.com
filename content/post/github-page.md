@@ -16,7 +16,7 @@ Seu Tech Blog também está num post-it perdido pela sua parede já faz um tempo
 Resista aos seus instintos de Dev, não inicie um "projeto simples" utilizando sua linguagem e framework favoritos, com um sistema de comentários, test coverage, CI/CD e aquele Cloud Provider no qual você abriu conta mas nunca utilizou de verdade ($$$). *Hear me out*, crie seu site pessoal sem ficar preso a um serviço de hosting. Esse artigo descreve como utilizar Github Pages e Hugo para criar, manter e fazer o hosting de maneira fácil e o melhor de tudo, **Free**.
 
 ## Github Pages
-O Github Pages é a combinação entre um repositório e um site estático. Para que o conteúdo do seu site seja publicado basta fazer um commit no branch `main` do repositório. Se quiser um overview rápido confira o [Github Pages Get Started](https://pages.github.com/). Aqui vamos dois repositórios, o primeiro destinado ao desenvolvimento e outro para a página gerada com o Hugo.
+O Github Pages é a combinação entre um repositório e um site estático. Para que o conteúdo do seu site seja publicado basta fazer um commit no branch `main` do repositório. Se quiser um overview rápido confira o [Github Pages Get Started](https://pages.github.com/). Aqui vamos utilizar dois repositórios, o primeiro destinado ao desenvolvimento e outro para a página gerada com o Hugo.
 
 Criar repositórios no Github é fácil, mas, para que seu repositório funcione com o Github Pages, é necessário ter atenção ao nome escolhido. O repositório precisa ser nomeado da seguinte forma: `<github-user>.github.io`. Por exemplo, o repositório desta página é `tiagokrebs.github.io`. O nome do seu repositório também será a URL da sua página quando publicada.
 

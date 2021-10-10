@@ -17,7 +17,7 @@ paginate = 5000 #frontpage pagination
   keyword = "Tiago, Krebs, Docker, Kubernetes, Go, Golang, Microservice, Kafka, Flink, Clilckhouse, Data, Science, Micromaster, Azion, Edge, Computing"
  
   # Sidebar settings
-  sidebar_about_description = "Systems Engineer, Software Developer, Data Engineer, Tech Manager"
+  sidebar_about_description = "Systems, Data & Software Engineer, Tech Manager."
   sidebar_avatar = "images/tiagokrebs.jpeg"
   about_me = true
 

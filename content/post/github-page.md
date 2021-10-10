@@ -241,7 +241,6 @@ git push -u origin main
 Faça o commit das alterações do repositório de desenvolvimento.
 ```
 cd ..
-cd public
 git add .
 git commit -m "primeiro commit"
 git branch -M main
@@ -339,15 +338,13 @@ git pull
 E Voilà, acesse seu domínio e você será redirecionado ao seu Github Pages pessoal.  
 
 ## Referências
-https://pages.github.com/  
-https://github.com/gohugoio/hugo/releases  
-https://gohugo.io/hosting-and-deployment/hosting-on-github/  
-https://gohugo.io/content-management/toc/  
-https://gohugo.io/getting-started/quick-start/  
-https://hub.docker.com/r/klakegg/hugo/  
-https://gohugo.io/getting-started/installing/  
-https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain
+[Github Pages](https://pages.github.com/)  
+[Hugo Releases](https://github.com/gohugoio/hugo/releases)  
+[Hugo - Host on GitHub](https://gohugo.io/hosting-and-deployment/hosting-on-github/)  
+[Hugo - Table of Contents](https://gohugo.io/content-management/toc/)  
+[Hugo - Get Start](https://gohugo.io/getting-started/quick-start/)  
+[Hugo - Install Hugo](https://gohugo.io/getting-started/installing/)  
+[Docker hub - klakegg/hugo](https://hub.docker.com/r/klakegg/hugo/)  
+[Github Pages - Configuring an apex domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain)
 
 -------------------
-
-Ficou na dúvida ou algum passo não funcionou para você? Me dê um ping, os contatos estão aqui no rodapé :)

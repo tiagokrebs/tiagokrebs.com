@@ -3,7 +3,7 @@ title: "Clickhouse - Tutorial"
 subtitle: "Como o Clickhouse adiciona seu próprio flavor de processamento de dados a arquitetura dos DBMS colunares."
 description: "Um tutorial breve sobre Clickhouse, utilizando dataset contendo centenas de milhares de eventos, que apresenta a facilidade de uso da plataforma, seus conceitos básicos e ótimo desempenho no processamento de dados."
 date: 2021-10-10
-draft: true
+draft: false
 showtoc: true
 author: "Tiago Krebs"
 thumbnail: "/images/post/clickhouse-tutorial/clickhouse_debug.jpg"
@@ -77,7 +77,7 @@ As features mais importantes do Clickhouse estão vinculadas a família Merge Th
 - **Replicação**: habilita replicação de tabelas entre nodos do mesmo cluster ou até mesmo localmente entre diferentes discos.
 - **Sampling**: se necessário é possível definir o método de sampling para as queries na tabela.
 - **Agregação**: é facilitada com base em regras na tabela, permitindo que sejam aplicadas diretamente pela engine após a operação de insert.
-- **Tempo de vida**: é possível definir o TTL para tabelas e/ou colunas, as ações de deleção ou movimentação dos dados é feita pela engine com base nas regras.
+- **Tempo de vida**: é possível definir o TTL para tabelas e/ou colunas, as ações de deleção ou movimentação dos dados são feitas pela engine com base nas regras.
 - **Storage em múltiplos dispositivos**: através de políticas de storage é possível criar regras para utilização de discos e volumes específicos conforme a tabela (arquitetura hot/warm/cold). Além disso, Block Storages externos são extendidos como discos pelas policies, abrindo a possibilidade de integração transparente com S3 e HDFS.  
 
 Essas características estão disponíveis através de diferentes engines que compõem a família Merge Three e podem ser combinadas entre si. Alguns exemplos são: `MergeTree`, `SummingMergeTree`, `ReplacingMergeTree`, `AggregatingMergeTree`, `CollapsingMergeTree`, `VersionedCollapsingMergeTree` e`GraphiteMergeTree`. Para cada uma dessas engines ainda é possível adicionar a característica de replicação concatenando `Replicated*` ao nome, como `ReplicatedAggregatingMergeTree`.

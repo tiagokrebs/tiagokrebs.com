@@ -6,6 +6,7 @@ date: {{ .Date }}
 draft: true
 showtoc: true
 author: "Tiago Krebs"
+thumbnail: ""
 image: ""
 tags: []
 categories: [""]

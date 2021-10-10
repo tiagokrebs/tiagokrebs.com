@@ -6,8 +6,8 @@ date: 2021-10-10
 draft: true
 showtoc: true
 author: "Tiago Krebs"
-thumbnail: "images/post/clickhouse-tutorial/clickhouse_debug.jpg"
-image: "images/post/clickhouse-tutorial/clickhouse_debug.jpg"
+thumbnail: "/images/post/clickhouse-tutorial/clickhouse_debug.jpg"
+image: "/images/post/clickhouse-tutorial/clickhouse_debug.jpg"
 tags: ["Clickhouse", "Tutorial", "Data Engining", "SQL"]
 categories: ["Tech"]
 ---

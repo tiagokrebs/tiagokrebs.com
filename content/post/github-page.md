@@ -6,6 +6,7 @@ date: 2021-09-21
 draft: false
 showtoc: true
 author: "Tiago Krebs"
+thumbnail: "images/post/github-page/mohammad-rahmani-EZrVFJUysLk-unsplash.jpg"
 image: "images/post/github-page/mohammad-rahmani-EZrVFJUysLk-unsplash.jpg"
 tags: ["Github Pages", "Hugo", "Blog"]
 categories: ["Tech"]

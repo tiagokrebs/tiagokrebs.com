@@ -14,5 +14,5 @@
 [] Clickhosue replicação  
 [] Clickhouse sharding  
 [] Clickhouse agregações  
-[] Clickhouse start  
+[x] Clickhouse start  
 [x] Github Pages + Hugo

@@ -189,7 +189,7 @@ A interface de entrada e saída do Clickhouse é bastante completa e possui inte
 
 O dataset do tutorial é composto por três arquivos CSV, para importá-los utilize as instruções abaixo.
 
-Abra uma sessão bash com o Clickhouse Standalome.
+Abra uma sessão bash com o Clickhouse Standalone.
 ```
 $ docker exec -it clickhouse-standalone bash
 ```
@@ -208,7 +208,7 @@ $ cat /data/Answers.csv \
     --query="INSERT INTO tutorial.answers SELECT Id UInt32, OwnerUserId, toDateTime(parseDateTimeBestEffort(CreationDate)) AS CreationDate, ParentId, Score, Body FROM input('Id UInt32, OwnerUserId String, CreationDate String, ParentId String, Score Int32, Body String') FORMAT CSVWithNames"
 ```
 
-Importe `Questions.csv`. Para essa tabela, além do ajuste de valor para algumas colunas, utilizamos a opção `input_format_allow_errors_ratio` a fim de configurar um percentual de erros de importação aceitável para o procedimento (linhas mal formadas são descartadas).
+Importe `Questions.csv`. Para essa tabela, além do ajuste de valor para algumas colunas, utilizamos a opção `input_format_allow_errors_ratio` a fim de configurar um percentual de erros aceitável no procedimento de importação (linhas mal formadas são descartadas).
 ```
 $ cat /data/Questions.csv \
     sed "s/'/ /g" | /usr/bin/clickhouse \

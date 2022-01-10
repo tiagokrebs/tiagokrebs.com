@@ -12,7 +12,7 @@ paginate = 5000 #frontpage pagination
 [params]
   header_image = "images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
   title = "Software Engineering"
-  slogan = "$ echo -e \"things I'm working on or pondering\"."
+  slogan = "$ echo -e \"things I'm working on or pondering\""
   SEOTitle = "Tiago Krebs Blog"
   keyword = "Tiago, Krebs, Docker, Kubernetes, Go, Golang, Microservice, Kafka, Flink, Clilckhouse, Data, Science, Micromaster, Azion, Edge, Computing"
  

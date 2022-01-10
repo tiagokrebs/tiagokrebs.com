@@ -1,5 +1,4 @@
-
-[] Clickhouse Monitoramento
+[] Clickhouse Monitoramento  
 [] Clickhouse TTL de colunas e tabelas  
 [] Event-Driver Microservices utilizando Kafka  
 [] Clickhouse Kafka Engine Table  

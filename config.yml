@@ -24,6 +24,9 @@ languages:
           tag: tags
         menu:
             main:
+                - name: About
+                  url: about/
+                  weight: 1
                 - name: Archive
                   url: archive/
                   weight: 5
@@ -39,6 +42,9 @@ languages:
           tag: tags
         menu:
             main:
+                - name: Sobre
+                  url: about/
+                  weight: 1
                 - name: Arquivo
                   url: archive/
                   weight: 5

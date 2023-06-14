@@ -3,7 +3,7 @@
 Used to build my [tiagokrebs.com](https://tiagokrebs.com) page at the Edge.  
 Based on [gohugo.io](https://gohugo.io) and [azion.com](http://azion.com).
 
-Clone with submodules (thenes)
+Clone with submodules (themes)
 ```
 $ git clone --recurse-submodules https://github.com/username/repo.git
 ```

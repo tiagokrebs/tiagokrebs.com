@@ -1,4 +1,4 @@
-baseurl = "https://tiagokrebs.github.io"
+baseurl = "https://tiagokrebs.com"
 title = "Tiago Krebs"
 theme = "hugo-theme-cleanwhite"
 languageCode = "pt-br"

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tiago Krebs</title>
+    <link>https://tiagokrebs.com/tags/</link>
+    <description>Recent content in Tags on Tiago Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tiagokrebs.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clickhouse</title>
+      <link>https://tiagokrebs.com/tags/clickhouse/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/clickhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Engining</title>
+      <link>https://tiagokrebs.com/tags/data-engining/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/data-engining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://tiagokrebs.com/tags/sql/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://tiagokrebs.com/tags/tutorial/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://tiagokrebs.com/tags/blog/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://tiagokrebs.com/tags/github-pages/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://tiagokrebs.com/tags/hugo/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

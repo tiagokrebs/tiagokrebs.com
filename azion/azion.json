@@ -1,0 +1,28 @@
+{
+  "name": "blog pessoal",
+  "type": "static",
+  "env": "production",
+  "version-id": "20230613182019",
+  "function": {
+    "id": 9555,
+    "name": "__DEFAULT__",
+    "file": "./azion/function.js",
+    "args": "./azion/args.json"
+  },
+  "application": {
+    "id": 1686600703,
+    "name": "__DEFAULT__"
+  },
+  "domain": {
+    "id": 1686604748,
+    "name": "__DEFAULT__"
+  },
+  "rt-purge": {
+    "purge_on_publish": false
+  },
+  "origin": {
+    "id": 105257,
+    "name": "blog pessoal",
+    "address": null
+  }
+}

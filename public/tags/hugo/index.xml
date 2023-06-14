@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Tiago Krebs</title>
+    <link>https://tiagokrebs.com/tags/hugo/</link>
+    <description>Recent content in Hugo on Tiago Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tiagokrebs.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como Criar um Blog Pessoal com Github Pages e Hugo</title>
+      <link>https://tiagokrebs.com/post/github-page/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiagokrebs.com/post/github-page/</guid>
+      <description>Seu Tech Blog também está num post-it perdido pela sua parede já faz um tempo?
+Resista aos seus instintos de Dev, não inicie um &amp;ldquo;projeto simples&amp;rdquo; utilizando sua linguagem e framework favoritos, com um sistema de comentários, test coverage, CI/CD e aquele Cloud Provider no qual você abriu conta mas nunca utilizou de verdade ($$$). Hear me out, crie seu site pessoal sem ficar preso a um serviço de hosting. Esse artigo descreve como utilizar Github Pages e Hugo para criar, manter e fazer o hosting de maneira fácil e o melhor de tudo, Free.</description>
+    </item>
+    
+  </channel>
+</rss>

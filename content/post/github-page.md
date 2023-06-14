@@ -12,6 +12,11 @@ tags: ["Github Pages", "Hugo", "Blog"]
 categories: ["Tech"]
 ---
 
+---
+***Hey, esse método ainda funciona, porém eu não utilizo mais, então alguns links aqui podem estar quebrados ¯\\_(ツ)_/¯***
+
+---
+
 Seu Tech Blog também está num post-it perdido pela sua parede já faz um tempo?  
 
 Resista aos seus instintos de Dev, não inicie um "projeto simples" utilizando sua linguagem e framework favoritos, com um sistema de comentários, test coverage, CI/CD e aquele Cloud Provider no qual você abriu conta mas nunca utilizou de verdade ($$$). *Hear me out*, crie seu site pessoal sem ficar preso a um serviço de hosting. Esse artigo descreve como utilizar Github Pages e Hugo para criar, manter e fazer o hosting de maneira fácil e o melhor de tudo, **Free**.

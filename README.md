@@ -1,20 +1,34 @@
-# Github Page Development
+# tiagokrebs.com
 
-Used to build my Github Page with gohugo.io.  
-Based on [this post](https://youngkin.github.io/post/createafreeblogsite/).
+Used to build my [tiagokrebs.com](https://tiagokrebs.com) page at the Edge.  
+Based on [gohugo.io](https://gohugo.io) and [azion.com](http://azion.com).
 
-## Add new post
+Clone with submodules (thenes)
+```
+$ git clone --recurse-submodules https://github.com/username/repo.git
+```
+
+Add new post
 ```
 $ hugo new post/newpost.md
 ```
 
-## Run local server
+Run local server (http://localhost:1313/)
 ```
-hugo server -D
+$ hugo server -D
 ```
-Go to http://localhost:1313/
 
-## Deploy
+Build
 ```
-$ ./deploy.sh
+$ hugo -D
+```
+
+Start a new Edge Application (if doesn't exists yet)
+```
+$ azioncli edge_applications init --type static
+```
+
+Deploy at the Edge
+```
+$ azioncli edge_applications publish --path public
 ```

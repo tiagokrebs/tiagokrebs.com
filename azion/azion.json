@@ -2,7 +2,7 @@
   "name": "blog pessoal",
   "type": "static",
   "env": "production",
-  "version-id": "20230613182019",
+  "version-id": "20230614102603",
   "function": {
     "id": 9555,
     "name": "__DEFAULT__",

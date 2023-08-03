@@ -1,8 +1,9 @@
 {
   "name": "blog pessoal",
   "type": "static",
+  "mode": "",
   "env": "production",
-  "version-id": "20230614102603",
+  "version-id": "20230803174334",
   "function": {
     "id": 9555,
     "name": "__DEFAULT__",

@@ -9,7 +9,7 @@ tags: ["Github Pages", "Hugo", "Blog"]
 categories: ["Tech"]
 author: "Tiago Krebs"
 
-comment: false
+comment: true
 toc: true
 autoCollapseToc: false
 postMetaInFooter: false

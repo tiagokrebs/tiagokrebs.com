@@ -9,7 +9,7 @@ tags: ["Auto conhecimento", "Tempo"]
 categories: ["Mind"]
 author: "Tiago Krebs"
 
-comment: false
+comment: true
 toc: false
 autoCollapseToc: false
 postMetaInFooter: false

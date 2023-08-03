@@ -9,7 +9,7 @@ tags: ["Ansiedade", "Estoicismo", "Auto conhecimento", "Filosofia"]
 categories: ["Mind"]
 author: "Tiago Krebs"
 
-comment: false
+comment: true
 toc: false
 autoCollapseToc: false
 postMetaInFooter: false

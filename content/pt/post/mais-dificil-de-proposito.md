@@ -9,7 +9,7 @@ tags: ["Auto conhecimento"]
 categories: []
 author: "Tiago Krebs"
 
-comment: false
+comment: true
 toc: false
 autoCollapseToc: false
 postMetaInFooter: false

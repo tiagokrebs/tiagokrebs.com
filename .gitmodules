@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-cleanwhite"]
 	path = themes/hugo-theme-cleanwhite
 	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/hugo-theme-even"]
+	path = themes/hugo-theme-even
+	url = https://github.com/olOwOlo/hugo-theme-even.git

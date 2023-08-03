@@ -5,7 +5,7 @@ Based on [gohugo.io](https://gohugo.io) and [azion.com](http://azion.com).
 
 Clone with submodules (themes)
 ```
-$ git clone --recurse-submodules https://github.com/username/repo.git
+$ git clone --recurse-submodules https://github.com/tiagokrebs/tiagokrebs.com.git
 ```
 
 Add new post

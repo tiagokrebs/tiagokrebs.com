@@ -1,16 +1,20 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-subtitle: ""
-description: ""
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
+lastmod: {{ .Date }}
 draft: true
-showtoc: true
-author: "Tiago Krebs"
-thumbnail: ""
-image: ""
+keywords: []
+summary: ""
 tags: []
-categories: [""]
+categories: []
+author: "Tiago Krebs"
+
+comment: false
+toc: false
+autoCollapseToc: false
+postMetaInFooter: false
+hiddenFromHomePage: false
 ---
 
-# Descriptive text here...
+# Go...
 <!--more-->

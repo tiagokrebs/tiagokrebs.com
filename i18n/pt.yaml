@@ -61,7 +61,7 @@ readingTime:
   other: "{{ .Count }} min de leitura"
 
 outdatedInfoWarningBefore:
-  other: "[NOTA] Atualizado "
+  other: "[NOTA] Ultima alteração "
 
 outdatedInfoWarningAfter:
   other: ". Este artigo pode conter dados desatualizados."

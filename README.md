@@ -10,7 +10,7 @@ $ git clone --recurse-submodules https://github.com/tiagokrebs/tiagokrebs.com.gi
 
 Add new post
 ```
-$ hugo new post/newpost.md
+$ hugo new content/pt/post/newpost.md
 ```
 
 Run local server (http://localhost:1313/)

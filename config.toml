@@ -55,6 +55,11 @@ copyright = "Tiago Krebs"            # default: author.name ↓        # 默认�
       name = 'Categorias'
       pageRef = '/categories/'
       weight = 40
+[[languages.pt.menu.main]]
+    name = "Sobre"
+    url = "/pt/about/"
+    pageRef = '/about/'
+    weight = 50
   [languages.en]
     contentDir = 'content/en'
     disabled = false
@@ -80,6 +85,11 @@ copyright = "Tiago Krebs"            # default: author.name ↓        # 默认�
       name = 'Categories'
       pageRef = '/categories/'
       weight = 40
+[[languages.en.menu.main]]
+    name = "About"
+    url = "/en/about/"
+    pageRef = '/about/'
+    weight = 50
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update

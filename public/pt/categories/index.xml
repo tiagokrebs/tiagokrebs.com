@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tiago Krebs Blog</title>
+    <link>https://tiagokrebs.com/pt/categories/</link>
+    <description>Recent content in Categories on Tiago Krebs Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-BR</language>
+    <copyright>Tiago Krebs</copyright>
+    <lastBuildDate>Sun, 10 Oct 2021 14:57:30 -0300</lastBuildDate><atom:link href="https://tiagokrebs.com/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech</title>
+      <link>https://tiagokrebs.com/pt/categories/tech/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      
+      <guid>https://tiagokrebs.com/pt/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mind</title>
+      <link>https://tiagokrebs.com/pt/categories/mind/</link>
+      <pubDate>Sun, 15 Sep 2019 16:16:37 -0300</pubDate>
+      
+      <guid>https://tiagokrebs.com/pt/categories/mind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

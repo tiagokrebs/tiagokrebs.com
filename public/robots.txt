@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tiagokrebs.com/sitemap.xml

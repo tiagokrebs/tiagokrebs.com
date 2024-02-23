@@ -1,7 +1,7 @@
 # tiagokrebs.com
 
 Used to build my [tiagokrebs.com](https://tiagokrebs.com) page at the Edge.  
-Based on [gohugo.io](https://gohugo.io) and [azion.com](http://azion.com).
+Based on [gohugo.io](https://gohugo.io), [NPM](https://www.npmjs.com/) and [azion.com](http://azion.com).
 
 Clone with submodules (themes)
 ```
@@ -25,10 +25,15 @@ $ hugo -D
 
 Start a new Edge Application (if doesn't exists yet)
 ```
-$ azioncli edge_applications init --type static
+$ azion link
+```
+
+Run a local dev environment
+```
+$ azion dev
 ```
 
 Deploy at the Edge
 ```
-$ azioncli edge_applications publish --path public
+$ azion deploy
 ```

@@ -1,29 +1,37 @@
 {
-  "name": "blog pessoal",
-  "type": "static",
-  "mode": "",
+  "name": "serene-riddle",
+  "bucket": "serene-riddle",
+  "template": "hugo",
+  "mode": "deliver",
   "env": "production",
-  "version-id": "20230803174334",
+  "prefix": "20240223102711",
+  "project-root": "/Users/tiago.krebs/Projetos/tiagokrebs.com",
   "function": {
-    "id": 9555,
+    "id": 0,
     "name": "__DEFAULT__",
-    "file": "./azion/function.js",
-    "args": "./azion/args.json"
+    "file": "./out/worker.js",
+    "args": "./azion/args.json",
+    "instance-id": 0
   },
   "application": {
-    "id": 1686600703,
+    "id": 1708343717,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1686604748,
+    "id": 1708345213,
     "name": "__DEFAULT__"
   },
   "rt-purge": {
-    "purge_on_publish": false
+    "purge_on_publish": true
   },
   "origin": {
-    "id": 105257,
-    "name": "blog pessoal",
+    "single-origin-id": 0,
+    "storage-origin-id": 121117,
+    "storage-origin-key": "4f5822dd-e1a7-4630-9b66-43e8c49f2679",
+    "name": "serene-riddle_object",
     "address": null
+  },
+  "rules-engine": {
+    "created": true
   }
 }

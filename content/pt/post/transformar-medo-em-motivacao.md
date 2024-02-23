@@ -5,7 +5,7 @@ lastmod: 2019-09-10T16:03:41-03:00
 draft: false
 keywords: []
 summary: "Como nossos medos podem nos fazer pensar diferente, aceitar novas experiências e dar valor ao que é incomum."
-tags: ["Auto conhecimento", "Medo", "Motivação"]
+tags: ["Auto conhecimento", "Medo", "Motivacao"]
 categories: ["Mind"]
 author: "Tiago Krebs"
 

@@ -1,2 +1,5 @@
-.vscode
 .hugo_build.lock
+node_modules/
+npm-debug.log*
+.npm
+.DS_Store

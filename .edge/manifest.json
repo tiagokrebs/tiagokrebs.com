@@ -1,11 +1,68 @@
 {
-  "routes": [
+  "origin": [
     {
-      "from": "/",
-      "to": ".edge/storage",
-      "priority": 1,
-      "type": "deliver"
+      "name": "origin-storage-default",
+      "origin_type": "object_storage"
     }
   ],
-  "fs": []
+  "rules": [
+    {
+      "name": "Main_Rule",
+      "criteria": [
+        [
+          {
+            "variable": "${uri}",
+            "operator": "matches",
+            "conditional": "if",
+            "input_value": "^\\/"
+          }
+        ]
+      ],
+      "behaviors": [
+        {
+          "name": "set_origin",
+          "target": "origin-storage-default"
+        }
+      ]
+    },
+    {
+      "name": "Index_Rewrite_1",
+      "criteria": [
+        [
+          {
+            "variable": "${uri}",
+            "operator": "matches",
+            "conditional": "if",
+            "input_value": ".*/$"
+          }
+        ]
+      ],
+      "behaviors": [
+        {
+          "name": "rewrite_request",
+          "target": "${uri}index.html"
+        }
+      ]
+    },
+    {
+      "name": "Index_Rewrite_2",
+      "criteria": [
+        [
+          {
+            "variable": "${uri}",
+            "operator": "matches",
+            "conditional": "if",
+            "input_value": "^(?!.*\\/$)(?![\\s\\S]*\\.[a-zA-Z0-9]+$).*"
+          }
+        ]
+      ],
+      "behaviors": [
+        {
+          "name": "rewrite_request",
+          "target": "${uri}/index.html"
+        }
+      ]
+    }
+  ],
+  "cache": []
 }

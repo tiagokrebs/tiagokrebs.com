@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on tiago krebs</title>
+    <link>https://tiagokrebs.com/en/posts/</link>
+    <description>Recent content in Posts on tiago krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2024 12:20:45 -0300</lastBuildDate>
+    <atom:link href="https://tiagokrebs.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Translating posts from Portuguese</title>
+      <link>https://tiagokrebs.com/en/posts/translating/</link>
+      <pubDate>Thu, 16 May 2024 12:20:45 -0300</pubDate>
+      <guid>https://tiagokrebs.com/en/posts/translating/</guid>
+      <description>All posts in Portuguese are being translated :)</description>
+    </item>
+  </channel>
+</rss>

@@ -4,3 +4,9 @@
 [submodule "themes/hugo-theme-even"]
 	path = themes/hugo-theme-even
 	url = https://github.com/olOwOlo/hugo-theme-even.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git

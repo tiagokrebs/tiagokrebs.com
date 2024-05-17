@@ -10,22 +10,17 @@ $ git clone --recurse-submodules https://github.com/tiagokrebs/tiagokrebs.com.gi
 
 Add new post
 ```
-$ hugo new content/pt/post/newpost.md
+$ npx hugo new content/posts/newpost.md
 ```
 
-Run local server (http://localhost:1313/)
+Start a new Edge Application (if doesn't exists yet), chose Hugo preset
 ```
-$ hugo server -D
+$ azion link
 ```
 
 Build
 ```
-$ hugo -D
-```
-
-Start a new Edge Application (if doesn't exists yet)
-```
-$ azion link
+$ azion build
 ```
 
 Run a local dev environment
@@ -37,3 +32,4 @@ Deploy at the Edge
 ```
 $ azion deploy
 ```
+

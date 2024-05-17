@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tiago Krebs Blog</title>
+    <title>tiago krebs</title>
     <link>https://tiagokrebs.com/en/</link>
-    <description>Recent content on Tiago Krebs Blog</description>
+    <description>Recent content on tiago krebs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Tiago Krebs</copyright>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 May 2024 12:20:45 -0300</lastBuildDate>
     <atom:link href="https://tiagokrebs.com/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sobre</title>
+      <title>Translating posts from Portuguese</title>
+      <link>https://tiagokrebs.com/en/posts/translating/</link>
+      <pubDate>Thu, 16 May 2024 12:20:45 -0300</pubDate>
+      <guid>https://tiagokrebs.com/en/posts/translating/</guid>
+      <description>All posts in Portuguese are being translated :)</description>
+    </item>
+    <item>
+      <title>About</title>
       <link>https://tiagokrebs.com/en/about/</link>
-      <pubDate>Thu, 03 Aug 2023 10:38:52 +0800</pubDate>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://tiagokrebs.com/en/about/</guid>
-      <description>Systems, Data &amp;amp; Software Engineer, and Tech Manager.</description>
+      <description>Linkedin</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://tiagokrebs.com/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tiagokrebs.com/en/contact/</guid>
+      <description>Follow me on&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://tiagokrebs.com/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tiagokrebs.com/en/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
   </channel>
 </rss>

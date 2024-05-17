@@ -1,37 +1,56 @@
 {
-  "name": "serene-riddle",
-  "bucket": "serene-riddle",
-  "template": "hugo",
+  "name": "tiagokrebs.com.v2",
+  "bucket": "tiagokrebscomv2",
+  "preset": "hugo",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240223155912",
-  "project-root": "/Users/tiago.krebs/Projetos/tiagokrebs.com",
+  "prefix": "20240517113933",
+  "not-first-run": true,
   "function": {
-    "id": 0,
+    "id": 23780,
     "name": "__DEFAULT__",
-    "file": "./out/worker.js",
+    "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 0
+    "instance-id": 23267,
+    "instance-name": "__DEFAULT__",
+    "cache-id": 0
   },
   "application": {
-    "id": 1708343717,
+    "id": 1715955770,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1708345213,
-    "name": "__DEFAULT__"
+    "id": 1715953974,
+    "name": "tiagokrebs.com.v2",
+    "domain_name": "synsmfplzp.map.azionedge.net",
+    "url": "https://synsmfplzp.map.azionedge.net"
   },
   "rt-purge": {
     "purge_on_publish": true
   },
-  "origin": {
-    "single-origin-id": 0,
-    "storage-origin-id": 121117,
-    "storage-origin-key": "4f5822dd-e1a7-4630-9b66-43e8c49f2679",
-    "name": "serene-riddle_object",
-    "address": null
-  },
+  "origin": [
+    {
+      "origin-id": 134961,
+      "origin-key": "9a2d7989-a91f-4be8-916a-40160f98da3d",
+      "name": "origin-storage-default"
+    }
+  ],
   "rules-engine": {
-    "created": true
-  }
+    "created": false,
+    "rules": [
+      {
+        "id": 254952,
+        "name": "Main_Rule"
+      },
+      {
+        "id": 254953,
+        "name": "Index_Rewrite_1"
+      },
+      {
+        "id": 254954,
+        "name": "Index_Rewrite_2"
+      }
+    ]
+  },
+  "cache-settings": []
 }

@@ -37,13 +37,13 @@ jobs:
       run: |
         azion build
 
-    - name: Purge URLs from Azion
-      run: |
-        azion purge --urls "tiagokrebs.com"
-
     - name: Deploy with Azion
       run: |
         azion deploy
+
+    - name: Purge URLs from Azion
+      run: |
+        azion purge --urls "tiagokrebs.com"
 
     - name: Configure Git
       run: |

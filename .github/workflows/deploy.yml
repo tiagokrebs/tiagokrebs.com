@@ -1,0 +1,51 @@
+
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '18'
+
+    - name: Install Azion CLI
+      run: |
+        curl -sSL https://github.com/aziontech/azion-cli/releases/download/v1.0.0/azion-linux-amd64.tar.gz | tar -xz -C /usr/local/bin azion
+        chmod +x /usr/local/bin/azion
+
+    - name: Login to Azion
+      run: |
+        azion login -t ${{ secrets.AZION_AUTH_TOKEN }}
+
+    - name: Build with Azion
+      run: |
+        azion build
+
+    - name: Deploy with Azion
+      run: |
+        azion deploy
+
+    - name: Configure Git
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+    - name: Commit changes
+      run: |
+        git add -A
+        git commit -m "Update built files"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

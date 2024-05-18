@@ -26,7 +26,7 @@ jobs:
 
     - name: Login to Azion
       run: |
-        azion login -t ${{ secrets.AZION_AUTH_TOKEN }}
+        azion -t ${{ secrets.AZION_AUTH_TOKEN }}
 
     - name: Build with Azion
       run: |

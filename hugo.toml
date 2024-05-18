@@ -2,7 +2,7 @@ baseURL = "https://tiagokrebs.com"
 title = "tiago krebs"
 theme = "hugo-coder"
 languageCode = "en"
-defaultContentLanguage = "pt-BR"
+defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
 

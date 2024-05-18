@@ -2,173 +2,173 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tiagokrebs.com/en/posts/</loc>
+    <loc>https://tiagokrebs.com/posts/</loc>
     <lastmod>2024-05-16T12:20:45-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/posts/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/</loc>
+    <loc>https://tiagokrebs.com/</loc>
     <lastmod>2024-05-16T12:20:45-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/posts/translating/</loc>
+    <loc>https://tiagokrebs.com/posts/translating/</loc>
     <lastmod>2024-05-16T12:20:45-03:00</lastmod>
   </url><url>
-    <loc>https://tiagokrebs.com/en/authors/</loc>
+    <loc>https://tiagokrebs.com/authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/authors/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/authors/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/authors/hugo-authors/</loc>
+    <loc>https://tiagokrebs.com/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://tiagokrebs.com/autores/autores/"
+                href="https://tiagokrebs.com/pt-br/autores/autores/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tiagokrebs.com/en/authors/hugo-authors/"
+                href="https://tiagokrebs.com/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>https://tiagokrebs.com/en/categories/</loc>
+    <loc>https://tiagokrebs.com/categories/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/categories/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/categorie/themes/</loc>
+    <loc>https://tiagokrebs.com/categorie/themes/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://tiagokrebs.com/categoria/temas/"
+                href="https://tiagokrebs.com/pt-br/categoria/temas/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tiagokrebs.com/en/categorie/themes/"
+                href="https://tiagokrebs.com/categorie/themes/"
                 />
   </url><url>
-    <loc>https://tiagokrebs.com/en/categorie/sintax/</loc>
+    <loc>https://tiagokrebs.com/categorie/sintax/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://tiagokrebs.com/categoria/sintaxe/"
+                href="https://tiagokrebs.com/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tiagokrebs.com/en/categorie/sintax/"
+                href="https://tiagokrebs.com/categorie/sintax/"
                 />
   </url><url>
-    <loc>https://tiagokrebs.com/en/tags/</loc>
+    <loc>https://tiagokrebs.com/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/tags/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/tags/shortcodes/</loc>
+    <loc>https://tiagokrebs.com/tags/shortcodes/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://tiagokrebs.com/tags/shortcodes/"
+                href="https://tiagokrebs.com/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tiagokrebs.com/en/tags/shortcodes/"
+                href="https://tiagokrebs.com/tags/shortcodes/"
                 />
   </url><url>
-    <loc>https://tiagokrebs.com/en/about/</loc>
+    <loc>https://tiagokrebs.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/about/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/about/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/contact/</loc>
+    <loc>https://tiagokrebs.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/contact/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/contact/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/projects/</loc>
+    <loc>https://tiagokrebs.com/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
+                href="https://tiagokrebs.com/pt-br/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
                 href="https://tiagokrebs.com/projects/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tiagokrebs.com/en/projects/"
-                />
   </url><url>
-    <loc>https://tiagokrebs.com/en/series/</loc>
+    <loc>https://tiagokrebs.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://tiagokrebs.com/series/"
+                href="https://tiagokrebs.com/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tiagokrebs.com/en/series/"
+                href="https://tiagokrebs.com/series/"
                 />
   </url>
 </urlset>

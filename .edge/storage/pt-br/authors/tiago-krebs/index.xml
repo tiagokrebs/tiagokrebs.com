@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiago Krebs</title>
+    <link>https://tiagokrebs.com/pt-br/authors/tiago-krebs/</link>
+    <description>Recent content on Tiago Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 10 Oct 2021 14:57:30 -0300</lastBuildDate>
+    <atom:link href="https://tiagokrebs.com/pt-br/authors/tiago-krebs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clickhouse tutorial</title>
+      <link>https://tiagokrebs.com/pt-br/posts/clickhouse-tutorial/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/clickhouse-tutorial/</guid>
+      <description>Clickhouse é um banco de dados colunar criado por Alexey Milovidov na Yandex em 2009 com o objetivo de simplificar o processamento de dados interno da empresa. Em 2016 o projeto se tornou opensource e desde então vem ganhando cada vez mais notoriedade pela maturidade do código, ótimos resultados em benchmarks e visível preocupação com cada nanossegundo de processamento.&#xA;Atualmente, apesar de contar com uma equipe relativamente pequena (15 desenvolvedores), já é utilizado em grandes empresas de tecnologia como Uber, Tesla e eBay (veja a lista completa aqui), além de possuir inúmeros cases de sucesso onde Petabytes de dados são processados diariamente.</description>
+    </item>
+    <item>
+      <title>Como Criar um Blog Pessoal com Github Pages e Hugo</title>
+      <link>https://tiagokrebs.com/pt-br/posts/github-page/</link>
+      <pubDate>Tue, 21 Sep 2021 15:20:05 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/github-page/</guid>
+      <description>Hey, esse método ainda funciona, porém eu não utilizo mais, então alguns links aqui podem estar quebrados ¯\(ツ)/¯&#xA;Seu Tech Blog também está num post-it perdido pela sua parede já faz um tempo?&#xA;Resista aos seus instintos de Dev, não inicie um &amp;ldquo;projeto simples&amp;rdquo; utilizando sua linguagem e framework favoritos, com um sistema de comentários, test coverage, CI/CD e aquele Cloud Provider no qual você abriu conta mas nunca utilizou de verdade ($$$).</description>
+    </item>
+    <item>
+      <title>O que eu aprendi ao tornar as coisas mais difíceis de propósito</title>
+      <link>https://tiagokrebs.com/pt-br/posts/mais-dificil-de-proposito/</link>
+      <pubDate>Sat, 21 Sep 2019 16:23:52 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/mais-dificil-de-proposito/</guid>
+      <description>Recentemente mudei de Santa Cruz do Sul para Porto Alegre, ambas no RS, a fim de apoiar a carreira da minha companheira de vida, Ana. Há Cerca dois anos atrás nós discutíamos que para aumentar as possibilidades dela atingir seu objetivo profissional, tornar-se promotora de justiça, nós tínhamos que fazer algo diferente, que poucas pessoas fazem. Afinal, a área é saturada de bons profissionais, logo, muito concorrida.&#xA;Quando ainda morávamos em Santa Cruz do Sul Ana surgiu um dia com a ideia de estudar presencialmente na Fundação Escola Superior do Ministério Público (FMP), que fica na capital, a 190 km.</description>
+    </item>
+    <item>
+      <title>Torne-se um recurso caro</title>
+      <link>https://tiagokrebs.com/pt-br/posts/torne-se-um-recurso-caro/</link>
+      <pubDate>Sun, 15 Sep 2019 16:16:37 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/torne-se-um-recurso-caro/</guid>
+      <description>A alguns anos me sentia sobrecarregado pelo trabalho, todo meu tempo livre era direcionado a mais horas no escritório, o excesso de tarefas a curtos prazos era prática comum daquela época. Negligenciava completamente minha saúde, estudo e, porque não, minha sanidade. Foi nessa época que comecei a ver sintomas em mim que só hoje sei o que representavam, crises de ansiedade.&#xA;Não lembro o motivo exato pelo qual cheguei a assuntos como crescimento pessoal, mindfulness e meditação, nem o momento exato, mas lembro até hoje do primeiríssimo conteúdo: o tempo, nosso bem mais valioso.</description>
+    </item>
+    <item>
+      <title>Quatro passos transformar o medo em motivação</title>
+      <link>https://tiagokrebs.com/pt-br/posts/transformar-medo-em-motivacao/</link>
+      <pubDate>Tue, 10 Sep 2019 16:03:41 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/transformar-medo-em-motivacao/</guid>
+      <description>Recentemente decidi escrever sobre um dos meus maiores medos (o texto pode ser encontrado aqui), no final cheguei à seguinte pergunta: se tenho um propósito no mundo, um sentimento pode ter um propósito em mim?&#xA;Acredito que sim.&#xA;Essa pergunta ficou alguns dias martelando na minha cabeça, até quando decidi escrever sobre ela no meu diário pessoal e cheguei nos passos que utilizei para entender e dar uma razão para o que eu estava sentido.</description>
+    </item>
+    <item>
+      <title>Sobre o medo de não ser bom o bastante</title>
+      <link>https://tiagokrebs.com/pt-br/posts/medo-de-nao-ser-bom-o-bastante/</link>
+      <pubDate>Sun, 01 Sep 2019 15:52:58 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/medo-de-nao-ser-bom-o-bastante/</guid>
+      <description>Desde a época de colégio eu sou um deslocado. Não sentava com a galera do fundão nem com os queridinhos da primeira fila. Meu lugar era no meio da fila, o mais distante possível da porta da sala , de preferência escorado na parede.&#xA;As aulas eram de manhã e a tarde a escola tinha os clubinhos de esportes para escolher. Obviamente futebol era o esporte favorito de todos os meninos da minha sala, o meu era basquete, nunca pisei na quadra no dia do futebol.</description>
+    </item>
+    <item>
+      <title>Como superar a ansiedade</title>
+      <link>https://tiagokrebs.com/pt-br/posts/como-superar-ansiedade/</link>
+      <pubDate>Sat, 24 Aug 2019 15:29:53 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/posts/como-superar-ansiedade/</guid>
+      <description>O quanto você tem dito para si mesmo que aquela promoção ou aumento de salário poderia amenizar o desgosto pelo seu trabalho? Ou tem ficado decepcionado ao chegar no destino da viagem dos seus sonhos e perceber que tudo custa muito caro ou que o hotel não é tão espetacular quanto as fotos mostravam? Ou talvez você até tenha conseguido aquela promoção, mas com ela também vieram mais horas de trabalho e responsabilidades que você não esperava.</description>
+    </item>
+  </channel>
+</rss>

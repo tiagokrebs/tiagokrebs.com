@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Tiago Krebs</title>
+    <link>https://tiagokrebs.com/pt-br/authors/</link>
+    <description>Recent content in Authors on Tiago Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:52 +0100</lastBuildDate>
+    <atom:link href="https://tiagokrebs.com/pt-br/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autores</title>
+      <link>https://tiagokrebs.com/pt-br/autores/autores/</link>
+      <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/autores/autores/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tiago Krebs</title>
+      <link>https://tiagokrebs.com/pt-br/authors/tiago-krebs/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/authors/tiago-krebs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tiago Krebs</title>
+    <link>https://tiagokrebs.com/pt-br/tags/</link>
+    <description>Recent content in Tags on Tiago Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 04 Jan 2023 11:51:36 +0100</lastBuildDate>
+    <atom:link href="https://tiagokrebs.com/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tags</title>
+      <link>https://tiagokrebs.com/pt-br/tags/shortcodes/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Clickhouse</title>
+      <link>https://tiagokrebs.com/pt-br/tags/clickhouse/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/clickhouse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Engining</title>
+      <link>https://tiagokrebs.com/pt-br/tags/data-engining/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/data-engining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://tiagokrebs.com/pt-br/tags/sql/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/sql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://tiagokrebs.com/pt-br/tags/tutorial/</link>
+      <pubDate>Sun, 10 Oct 2021 14:57:30 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://tiagokrebs.com/pt-br/tags/blog/</link>
+      <pubDate>Tue, 21 Sep 2021 15:20:05 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Github Pages</title>
+      <link>https://tiagokrebs.com/pt-br/tags/github-pages/</link>
+      <pubDate>Tue, 21 Sep 2021 15:20:05 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://tiagokrebs.com/pt-br/tags/hugo/</link>
+      <pubDate>Tue, 21 Sep 2021 15:20:05 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auto conhecimento</title>
+      <link>https://tiagokrebs.com/pt-br/tags/auto-conhecimento/</link>
+      <pubDate>Sat, 21 Sep 2019 16:23:52 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/auto-conhecimento/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tempo</title>
+      <link>https://tiagokrebs.com/pt-br/tags/tempo/</link>
+      <pubDate>Sun, 15 Sep 2019 16:16:37 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/tempo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medo</title>
+      <link>https://tiagokrebs.com/pt-br/tags/medo/</link>
+      <pubDate>Tue, 10 Sep 2019 16:03:41 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/medo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motivação</title>
+      <link>https://tiagokrebs.com/pt-br/tags/motiva%C3%A7%C3%A3o/</link>
+      <pubDate>Tue, 10 Sep 2019 16:03:41 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/motiva%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ansiedade</title>
+      <link>https://tiagokrebs.com/pt-br/tags/ansiedade/</link>
+      <pubDate>Sun, 01 Sep 2019 15:52:58 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/ansiedade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Estoicismo</title>
+      <link>https://tiagokrebs.com/pt-br/tags/estoicismo/</link>
+      <pubDate>Sat, 24 Aug 2019 15:29:53 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/estoicismo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filosofia</title>
+      <link>https://tiagokrebs.com/pt-br/tags/filosofia/</link>
+      <pubDate>Sat, 24 Aug 2019 15:29:53 -0300</pubDate>
+      <guid>https://tiagokrebs.com/pt-br/tags/filosofia/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

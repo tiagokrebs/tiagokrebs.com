@@ -17,12 +17,12 @@ style = "github-dark"
 
 [params]
 author = "Tiago Krebs"
-# license = '<a rel="license" href="https://github.com/tiagokrebs/tiagokrebs.com/blob/main/LICENSE">MIT LICENSE</a>'
+#license = '<a rel="license" href="https://github.com/tiagokrebs/tiagokrebs.com/blob/main/LICENSE">MIT LICENSE</a>'
 # description = "Description EN"
 # keywords = "Keywords EN"
 # info = ["Info 1", "Info 2"]
-#avatarURL = "images/avatar.jpg"
-gravatar = "krebstiago@gmail.com"
+avatarURL = "images/avatar.png"
+#gravatar = "krebstiago@gmail.com"
 dateFormat = "January 2, 2006"
 # since = 2019
 # Git Commit in Footer, uncomment the line below to enable it

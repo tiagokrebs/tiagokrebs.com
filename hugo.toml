@@ -5,6 +5,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
 enableEmoji = true
+enableGitInfo = true
 
 [services]
 [services.disqus]

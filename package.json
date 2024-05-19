@@ -1,12 +1,13 @@
 {
-  "name": "example-hugo-static",
+  "name": "tiagokrebs.com",
   "version": "0.1.0",
-  "description": "Vulcan Hugo Example",
+  "description": "Personal site",
   "author": "krebstiago@gmail.com",
   "license": "MIT",
   "scripts": {
-    "build": "hugo",
-    "serve": "hugo server"
+    "build": "npx hugo",
+    "serve": "npx hugo serve -D",
+    "deploy": "git add . && git commit -m \"Deploy commit $(date '+%Y-%m-%d %H:%M:%S')\" && git push origin main"
   },
   "dependencies": {
     "hugo-bin": "^0.119.0"

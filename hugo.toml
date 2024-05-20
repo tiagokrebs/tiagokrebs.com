@@ -177,10 +177,10 @@ name = "About"
 weight = 2
 url = "about/"
 
-[[languages.en.menu.main]]
-name = "Posts"
-weight = 1
-url = "posts/"
+# [[languages.en.menu.main]]
+# name = "Posts"
+# weight = 1
+# url = "posts/"
 
 # [[languages.en.menu.main]]
 # name = "Projects"
@@ -207,10 +207,10 @@ name = "Sobre"
 weight = 2
 url = "about/"
 
-[[languages.pt-br.menu.main]]
-name = "Artigos"
-weight = 1
-url = "posts/"
+# [[languages.pt-br.menu.main]]
+# name = "Artigos"
+# weight = 1
+# url = "posts/"
 
 # [[languages.pt-br.menu.main]]
 # name = "Projetos"
